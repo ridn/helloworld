@@ -1,3 +1,7 @@
+/*
+Stolen from rpetrich, thanks!
+*/
+
 #import <Foundation/Foundation.h>
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>

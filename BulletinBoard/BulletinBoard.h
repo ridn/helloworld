@@ -1,5 +1,6 @@
 /*
 Stolen from rpetrich, thanks!
+:P
 */
 
 #import <Foundation/Foundation.h>
